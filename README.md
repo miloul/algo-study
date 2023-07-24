@@ -8,7 +8,7 @@
 * 장호진
 
 ## 1주차 
-#### 1차시
+### 1차시
 * [1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 * [1181 단어 정렬](https://www.acmicpc.net/problem/1181)
 * [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
