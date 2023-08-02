@@ -23,6 +23,7 @@
 ### 1차시
 * [18111 마인크래프트](https://www.acmicpc.net/problem/18111)
 * [18110 solved.ac](https://www.acmicpc.net/problem/18110)
+* [10773 제로](https://www.acmicpc.net/problem/10773)
 * [9012 괄호](https://www.acmicpc.net/problem/9012)
 * [4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
 * [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
