@@ -27,3 +27,10 @@
 * [9012 괄호](https://www.acmicpc.net/problem/9012)
 * [4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
 * [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
+
+  ## 3주차
+  ### 1차시
+* [27446 랩실에서 잘자요](https://www.acmicpc.net/problem/27446)
+* [2108 통계학](https://www.acmicpc.net/problem/2108)
+* [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
+* [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
