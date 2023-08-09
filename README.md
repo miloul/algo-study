@@ -34,3 +34,10 @@
 * [2108 통계학](https://www.acmicpc.net/problem/2108)
 * [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 * [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
+
+## 4주차
+### 1차시
+* [7568 덩](https://www.acmicpc.net/problem/7568)
+* [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
+* [1920 수 찾](https://www.acmicpc.net/problem/1920)
+* [1966 프린터 큐](https://www.acmicpc.net/problem/1966)
