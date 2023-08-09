@@ -37,7 +37,7 @@
 
 ## 4주차
 ### 1차시
-* [7568 덩](https://www.acmicpc.net/problem/7568)
+* [7568 덩치](https://www.acmicpc.net/problem/7568)
 * [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
 * [1920 수 찾](https://www.acmicpc.net/problem/1920)
 * [1966 프린터 큐](https://www.acmicpc.net/problem/1966)
