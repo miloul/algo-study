@@ -41,3 +41,9 @@
 * [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
 * [1920 수 찾기](https://www.acmicpc.net/problem/1920)
 * [1966 프린터 큐](https://www.acmicpc.net/problem/1966)
+
+### 2차시
+* [2164 카드2](https://www.acmicpc.net/problem/2164)
+* [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
+* [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
+* [7576 토마토](https://www.acmicpc.net/problem/7576)
